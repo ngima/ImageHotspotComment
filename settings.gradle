@@ -1,0 +1,2 @@
+include ':app', ':imagehotspotcomment'
+rootProject.name='Image Hotspot Comment'
